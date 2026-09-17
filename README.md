@@ -1,6 +1,3 @@
-# Learning
-Learning AI
-
 # My Knowledge Repository
 
 This repository contains my writing, learning notes, and other resources.
