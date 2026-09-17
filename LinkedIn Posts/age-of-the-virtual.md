@@ -1,4 +1,4 @@
-Is the "age of the virtual" over?
+# Is the "age of the virtual" over?
 
 A few years back, supposedly the airline industry faced an unforeseen challenge.
 
@@ -6,7 +6,7 @@ Not the rising fuel cost.
 
 Not the low-cost airlines.
 
-Virtual meetings!
+*Virtual meetings!*
 
 You could get on a video call and have an almost in-person conversation.
 
@@ -26,9 +26,9 @@ But this has not replaced in-person events in totality.
 
 People have started going to the office to connect with other people.
 
-Chat in person.
+> Chat in person.
 
-Eat at the same table.
+> Eat at the same table.
 
 We missed this social connection.
 
